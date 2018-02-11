@@ -15,16 +15,16 @@
 "owner": "margaretaudet",
 "source": "A lead",
 "owner_role": null,
-"status": "Client",
+"status": "Lead",
 "action": "Email Sent",
 "temp": "blazing",
 "notes": [
-{"title":"Email Clicked", "note_date": "01-18-2018"},
-{"title":"Email Viewed", "note_date": "01-16-2018"},
-{"title":"Email Sent", "note_date": "01-15-2018"},
-{"title":"Demo", "note_date": "01-15-2018"},
-{"title":"Call", "note_date": "01-15-2018"},
-{"title":"New", "note_date": "01-14-2018"}
+	{"title":"Email Clicked", "note_date": "01-18-2018", "desc": "" },
+	{"title":"Email Viewed", "note_date": "01-16-2018", "desc":  "" },
+	{"title":"Email Sent", "note_date": "01-15-2018", "desc": "" },
+	{"title":"Demo", "note_date": "01-15-2018", "desc": "" },
+	{"title":"Call", "note_date": "01-15-2018", "desc": "" },
+	{"title":"New", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "russell@vancuren.net",
 "last_contact": "1 week ago",
@@ -49,8 +49,8 @@
 "action": "Email Sent",
 "temp": "blazing",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "keiko@email.net",
 "last_contact": "3 weeks ago",
@@ -71,12 +71,12 @@
 "owner": "margaretaudet",
 "source": "A lead",
 "owner_role": null,
-"status": "Client",
+"status": "Prospect",
 "action": "Email Viewed",
 "temp": "hot",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "ha@email.net",
 "last_contact": "1 week ago",
@@ -97,12 +97,12 @@
 "owner": "margaretaudet",
 "source": "A lead",
 "owner_role": null,
-"status": "Client",
+"status": "Lead",
 "action": "Email Viewed",
 "temp": "hot",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "etsuko@email.net",
 "last_contact": "1 week ago",
@@ -127,8 +127,8 @@
 "action": "Email Viewed",
 "temp": "warm",
 "notes": [
-	{"title":"Email Sent", "note_date": "01-13-2018"},
-	{"title":"Email Viewed", "note_date": "01-14-2018"}
+	{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+	{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "doria@email.net",
 "last_contact": "1 week ago",
@@ -149,12 +149,12 @@
 "owner": "margaretaudet",
 "source": "A lead",
 "owner_role": null,
-"status": "Client",
+"status": "Prospect",
 "action": "Email Sent",
 "temp": "warm",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "lavette@email.net",
 "last_contact": "3 weeks ago",
@@ -175,12 +175,12 @@
 "owner": "margaretaudet",
 "source": "A lead",
 "owner_role": null,
-"status": "Client",
+"status": "Lead",
 "action": "Email Viewed",
 "temp": "cold",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "nicolas@email.net",
 "last_contact": "3 weeks ago",
@@ -205,8 +205,8 @@
 "action": "Email Sent",
 "temp": "cold",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "test@test.net",
 "last_contact": "6 weeks ago",
@@ -227,12 +227,12 @@
 "owner": "margaretaudet",
 "source": "A lead",
 "owner_role": null,
-"status": "Client",
+"status": "Prospect",
 "action": "Email Sent",
 "temp": "freezing",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "dyan@email.net",
 "last_contact": "4 weeks ago",
@@ -253,12 +253,12 @@
 "owner": "margaretaudet",
 "source": "A lead",
 "owner_role": "Admin",
-"status": "Client",
+"status": "Lead",
 "action": "Email Sent",
 "temp": "freezing",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "sean@email.net",
 "last_contact": "3 weeks ago",
@@ -283,8 +283,8 @@
 "action": "Email Sent",
 "temp": "freezing",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "sean@email.net",
 "last_contact": "3 weeks ago",
@@ -309,8 +309,8 @@
 "action": "Email Sent",
 "temp": "freezing",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Sent", "note_date": "01-13-2018", "desc": "" },
+{"title":"Email Viewed", "note_date": "01-14-2018", "desc": "" }
 ],
 "email": "sean@email.net",
 "last_contact": "3 weeks ago",
