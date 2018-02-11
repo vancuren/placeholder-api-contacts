@@ -19,10 +19,16 @@
 "action": "Email Sent",
 "temp": "blazing",
 "notes": [
-{"title":"Email Sent", "note_date": "01-13-2018"},
-{"title":"Email Viewed", "note_date": "01-14-2018"}
+{"title":"Email Clicked", "note_date": "01-18-2018"},
+{"title":"Email Viewed", "note_date": "01-16-2018"},
+{"title":"Email Sent", "note_date": "01-15-2018"},
+{"title":"Demo", "note_date": "01-15-2018"},
+{"title":"Call", "note_date": "01-15-2018"},
+{"title":"New", "note_date": "01-14-2018"}
 ],
-"email": "russell@vancuren.net"
+"email": "russell@vancuren.net",
+"last_contact": "1 week ago",
+"last_updated": "1 week ago"
 },
 {
 "lead_id": 2,
@@ -46,7 +52,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "keiko@email.net"
+"email": "keiko@email.net",
+"last_contact": "3 weeks ago",
+"last_updated": "2 weeks ago"
 },
 {
 "lead_id": 3,
@@ -70,7 +78,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "ha@email.net"
+"email": "ha@email.net",
+"last_contact": "1 week ago",
+"last_updated": "1 week ago",
 },
 {
 "lead_id": 4,
@@ -94,7 +104,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "etsuko@email.net"
+"email": "etsuko@email.net",
+"last_contact": "1 week ago",
+"last_updated": "1 week ago",
 },
 {
 "lead_id": 5,
@@ -118,7 +130,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "doria@email.net"
+"email": "doria@email.net",
+"last_contact": "1 week ago",
+"last_updated": "5 weeks ago",
 },
 {
 "lead_id": 6,
@@ -142,7 +156,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "lavette@email.net"
+"email": "lavette@email.net",
+"last_contact": "3 weeks ago",
+"last_updated": "3 weeks ago",
 },
 {
 "lead_id": 7,
@@ -166,7 +182,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "nicolas@email.net"
+"email": "nicolas@email.net",
+"last_contact": "3 weeks ago",
+"last_updated": "3 weeks ago",
 },
 {
 "lead_id": 8,
@@ -190,7 +208,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "test@test.net"
+"email": "test@test.net",
+"last_contact": "6 weeks ago",
+"last_updated": "5 weeks ago",
 },
 {
 "lead_id": 9,
@@ -214,7 +234,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "dyan@email.net"
+"email": "dyan@email.net",
+"last_contact": "4 weeks ago",
+"last_updated": "4 weeks ago",
 },
 {
 "lead_id": 10,
@@ -238,117 +260,9 @@
 {"title":"Email Sent", "note_date": "01-13-2018"},
 {"title":"Email Viewed", "note_date": "01-14-2018"}
 ],
-"email": "sean@email.net"
-}
-],
-"events": [
-{
-"event_id": 1,
-"start_date": "1/19/2018",
-"end_date": "1/19/2018",
-"startTime": "2018-01-26 12:00:00",
-"endTime": "2018-01-26 13:00:00",
-"title": "Meeting with Sarah",
-"color": "red",
-"description": "Meeting with Sarah",
-"allDay": false,
-"contact": "Floyd"
-},
-{
-"event_id": 2,
-"start_date": "1/19/2018",
-"end_date": "1/19/2018",
-"startTime": "2018-01-26 16:00:00",
-"endTime": "2018-01-26 18:00:00",
-"title": "Meeting with Sales",
-"color": "blue",
-"description": "Meeting with Sales",
-"visibility": "public",
-"contact": "Keiko"
-},
-{
-"event_id": 3,
-"start_date": "1/19/2018",
-"end_date": "1/19/2018",
-"startTime": "2018-01-28 08:00:00",
-"endTime": "2018-01-28 09:00:00",
-"title": "Monthly Review",
-"color": "green",
-"description": "Monthly Review",
-"allDay": false,
-"contact": "Ha"
-},
-{
-"event_id": 4,
-"start_date": "1/19/2018",
-"end_date": "1/19/2018",
-"startTime": "2018-01-28 12:00:00",
-"endTime": "2018-01-28 13:00:00",
-"title": "Lead Visit",
-"color": "red",
-"description": "Lead Visit",
-"allDay": false,
-"contact": "Etsuko"
-},
-{
-"event_id": 5,
-"start_date": "1/19/2018",
-"end_date": "1/19/2018",
-"startTime": "2018-01-28 15:00:00",
-"endTime": "2018-01-28 16:00:00",
-"title": "Contact Call",
-"color": "blue",
-"description": "Contact Call",
-"allDay": false,
-"contact": "Doria"
-},
-{
-"event_id": 6,
-"start_date": "1/19/2018",
-"end_date": "1/19/2018",
-"startTime": "2018-01-28 19:00:00",
-"endTime": "2018-01-28 20:00:00",
-"title": "Dinner with Jason",
-"color": "green",
-"description": "Dinner with Jason",
-"allDay": false,
-"contact": null
-},
-{
-"event_id": 7,
-"start_date": "1/19/2018",
-"end_date": "1/19/2018",
-"startTime": "2018-01-29 12:00:00",
-"endTime": "2018-01-29 13:00:00",
-"title": "Remember Conf Call",
-"color": "green",
-"description": "Remember Conf Call",
-"allDay": false,
-"contact": null
-},
-{
-"event_id": 8,
-"start_date": "1/19/2018",
-"end_date": "1/19/2018",
-"startTime": "2018-01-25 06:00:00",
-"endTime": "2018-01-25 07:00:00",
-"title": "Review Notes",
-"color": "green",
-"description": "Review Notes",
-"allDay": false,
-"contact": null
-},
-{
-"event_id": 9,
-"start_date": "1/20/2018",
-"end_date": "1/20/2018",
-"startTime": "2018-01-30 10:00:00",
-"endTime": "2018-01-30 11:00:00",
-"title": "Meeting with Sarah",
-"color": "blue",
-"description": "Meeting with Sarah",
-"allDay": false,
-"contact": null
+"email": "sean@email.net",
+"last_contact": "3 weeks ago",
+"last_updated": "3 weeks ago",
 }
 ]
 }
